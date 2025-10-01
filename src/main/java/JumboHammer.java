@@ -1,0 +1,2 @@
+class JumboHammer extends Weapons{
+}

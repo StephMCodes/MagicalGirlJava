@@ -1,0 +1,2 @@
+class LightMagic extends Magic {
+}

@@ -1,0 +1,2 @@
+class DarkMagic extends Magic {
+}
