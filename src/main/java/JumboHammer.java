@@ -1,2 +1,2 @@
-class JumboHammer extends Weapons{
+class JumboHammer extends Weapon {
 }

@@ -1,4 +1,4 @@
-class Weapons {
+class Weapon {
     int damage;
     int GetDamage(){return damage;}
 

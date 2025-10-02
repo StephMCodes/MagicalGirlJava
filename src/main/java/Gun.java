@@ -1,2 +1,2 @@
- class Gun extends Weapons {
+ class Gun extends Weapon {
 }
